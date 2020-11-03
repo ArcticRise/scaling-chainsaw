@@ -1,0 +1,15 @@
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csprojAssemblyReference.cache
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+D:\voxmi\Downloads\sr-code-challenge-dotnet\code-challenge\bin\Debug\netcoreapp2.1\resources\CompensationSeedData.json

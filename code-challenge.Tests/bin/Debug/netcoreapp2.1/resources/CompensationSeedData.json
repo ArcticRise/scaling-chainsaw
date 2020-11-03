@@ -1,0 +1,17 @@
+﻿[
+  {
+    "employeeId": "16a596ae-edd3-4847-99fe-c4518e82c86f",
+    "salary": "1000.0000",
+    "effectiveDate": "2020,11,3"
+  },
+  {
+    "employeeId": "62c1084e-6e34-4630-93fd-9153afb65309",
+    "salary": "100.00",
+    "effectiveDate": "2020,11,11"
+  },
+  {
+    "employeeId": "c0c2293d-16bd-4603-8e08-638a9d18b22c",
+    "salary": "10.0000",
+    "effectiveDate": "1996,11,3"
+  }
+]
